@@ -1,5 +1,4 @@
 require "spec_helper"
-require.pry
 
 describe "#catch_phrase" do 
   it "puts out a catch phrase" do 
